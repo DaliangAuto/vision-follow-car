@@ -41,6 +41,8 @@ The exact pairing rules and field names are defined in the training repository (
 
 ## Where the Dataset Lives
 
+**Dataset address**: [Hugging Face — DaliangAuto/vision-follow-car](https://huggingface.co/datasets/DaliangAuto/vision-follow-car)
+
 The master repository `vision-follow-car` does **not** store the full dataset. Reasons:
 
 - Dataset size is typically large and not suitable for version control

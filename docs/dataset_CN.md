@@ -41,6 +41,8 @@
 
 ## 数据集存放位置
 
+**数据集地址**：[Hugging Face — DaliangAuto/vision-follow-car](https://huggingface.co/datasets/DaliangAuto/vision-follow-car)
+
 总仓库 `vision-follow-car` **不**存放完整数据集。原因包括：
 
 - 数据集通常较大，不适合版本控制

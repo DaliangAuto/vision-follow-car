@@ -2,6 +2,8 @@
 
 [中文](README_CN.md) | English
 
+This project serves as a hands-on learning project for AI, covering the full pipeline from data collection and model training to deployment on embedded hardware.
+
 A monocular vision-based auto-follow toy car system. End-to-end pipeline from data collection and model training to onboard inference and MCU control.
 
 ---
